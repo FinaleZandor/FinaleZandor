@@ -1,4 +1,5 @@
 ## 🌷 About Me:
+
 👋 Hi, I'm Lian Canlas
 An Aspiring Full Stack Web Developer and AI/Machine Learning Enthusiast. 
 Focusing on learning and discovering languages that are featured in the mainstream technology.
